@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "タイムカプセル",
+  "base_artist": "なきゃむりゃ",
+  "createdAt": "2026-03-29T15:35:10.999052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/01_タイムカプセル_YUKI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time Capsule [タイムカプセル]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Time_Capsule_[タイムカプセル]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/03_タイムカプセル_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "Kotaro Oshio",
+      "has_synced": false,
+      "path": "select/04_タイムカプセル_Kotaro_Oshio.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/05_タイムカプセル_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "堀江由衣",
+      "has_synced": false,
+      "path": "select/06_タイムカプセル_堀江由衣.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/07_タイムカプセル_YUKI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "アオ",
+      "has_synced": false,
+      "path": "select/08_タイムカプセル_アオ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_タイムカプセル_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "新田恵海",
+      "has_synced": false,
+      "path": "select/10_タイムカプセル_新田恵海.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "LAST ALLIANCE",
+      "has_synced": true,
+      "path": "select/11_タイムカプセル_LAST_ALLIANCE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "莉犬",
+      "has_synced": true,
+      "path": "select/12_タイムカプセル_莉犬.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "タイムカプセル",
+      "artist": "as",
+      "has_synced": false,
+      "path": "select/13_タイムカプセル_as.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タイムカプセル",
+      "artist": "なきゃむりゃ",
+      "has_synced": false,
+      "path": "select/pl_01_タイムカプセル_なきゃむりゃ.txt"
+    }
+  ]
+}
